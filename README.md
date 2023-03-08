@@ -1,4 +1,4 @@
-# Data science lifecycle with end to end project deployment steps
+# Data science project deployment steps
 1. Create project folder in your system
 
 2. Come inside that project in vscode or pycharm by changing the directory i.e cd paste your project folder path here
