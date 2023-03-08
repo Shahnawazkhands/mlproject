@@ -5,6 +5,7 @@
 
 3. Create new environment
    Vs-Code terminal>conda create -p venv python==3.8 -y
+   
    3.1 To activate the environment
    Vs-Code terminal>conda create -p venv python==3.8 -y
 
