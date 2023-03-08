@@ -7,7 +7,7 @@
    Vs-Code terminal>conda create -p venv python==3.8 -y
    
    3.1 To activate the environment
-   Vs-Code terminal>conda create -p venv python==3.8 -y
+   Vs-Code terminal>conda activate venv
 
 4. If you are getting an traceback like "Conda SSL Error: OpenSSL appears to be unavailable on this machine" then follow the below video
    "https://www.youtube.com/watch?v=hfKAV6OYaKw"
