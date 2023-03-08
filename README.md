@@ -23,6 +23,6 @@
  
      5.4 In which branch you want these changes "git branch -M main"
  
-     5.5 To sync your local and online GitHub repo "git remote add origin https://github.com/your_GitHub_user_name/Github_repo_name.git
+     5.5 To sync your local and online GitHub repo "git remote add origin https://github.com/your_GitHub_user_name/Github_repo_name.git"
  
      5.6 To push from local to online GitHub repo "git push -u origin main"
